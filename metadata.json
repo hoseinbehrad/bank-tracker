@@ -1,0 +1,7 @@
+{
+  "name": "Bank Tracker",
+  "description": "Personal finance and bank SMS tracker for Iranian bank transactions with Bank Mellat support, Rial/Toman conversion, and spending analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
